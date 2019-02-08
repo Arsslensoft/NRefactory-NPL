@@ -1,0 +1,7 @@
+D:\Projects\Rava\monodevelop\main\external\nrefactory\bin\Debug\ICSharpCode.NRefactory.CSharp.dll
+D:\Projects\Rava\monodevelop\main\external\nrefactory\bin\Debug\ICSharpCode.NRefactory.CSharp.pdb
+D:\Projects\Rava\monodevelop\main\external\nrefactory\bin\Debug\ICSharpCode.NRefactory.CSharp.xml
+D:\Projects\Rava\monodevelop\main\external\nrefactory\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.csprojResolveAssemblyReference.cache
+D:\Projects\Rava\monodevelop\main\external\nrefactory\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.dll
+D:\Projects\Rava\monodevelop\main\external\nrefactory\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.xml
+D:\Projects\Rava\monodevelop\main\external\nrefactory\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.pdb
